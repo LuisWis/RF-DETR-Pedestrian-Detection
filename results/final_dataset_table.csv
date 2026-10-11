@@ -1,0 +1,8 @@
+Parameter,Value
+Model,RF-DETR Small
+Dataset,Chronological Pedestrian Dataset
+Test Images,187
+Ground-Truth Pedestrians,535
+Object Classes,1
+Confidence Threshold,0.3
+Matching IoU Threshold,0.5

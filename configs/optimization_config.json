@@ -1,0 +1,13 @@
+{
+    "dataset_dir": "/content/drive/MyDrive/CO2.2_RF_DETR_Final_Project/dataset_processed/pedestrian_chronological",
+    "output_dir": "/content/drive/MyDrive/CO2.2_RF_DETR_Final_Project/training_outputs/rfdetr_small_lr_00005",
+    "epochs": 20,
+    "batch_size": 4,
+    "grad_accum_steps": 4,
+    "lr": 5e-05,
+    "early_stopping": true,
+    "early_stopping_patience": 7,
+    "early_stopping_min_delta": 0.001,
+    "best_model_metric": "map",
+    "run_test": false
+}

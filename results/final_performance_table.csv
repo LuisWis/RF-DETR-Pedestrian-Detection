@@ -1,0 +1,12 @@
+Metric,Result
+Precision,67.21%
+Recall,61.31%
+F1 Score,64.13%
+Mean Matched IoU,75.46%
+mAP@0.50,65.87%
+mAP@0.75,28.19%
+mAP@0.50:0.95,32.77%
+AP Small,23.40%
+AP Medium,69.53%
+AR@100,46.36%
+Matched-Object Classification Accuracy,100.00%
